@@ -1,0 +1,15 @@
+Package: ImmuMiRNA
+Title: Identification of immune-associated miRNAs in CRC
+Version: 1.1
+Authors@R: 
+    person(given = "Liu",
+           family = "Zaoqu",
+           role = c("aut", "cre"),
+           email = "liuzaoqu@163.com",
+           comment = c(ORCID = "0000-0002-0452-742X"))
+Description: Identification of immune-associated miRNAs in CRC.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
